@@ -1,0 +1,4 @@
+Шаг 1. Длительность 5 месяцев
+  а) Читеам статьи https://metanit.com/java/tutorial/ - это позволит приобрести общее представление о языке
+  б) Паралельно со статьями читаем книгу OCA-Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0-808 - это даст более глубокие знания
+  в) Проходим первые четыре курса отсюда https://www.coursera.org/specializations/java-object-oriented. Курсы на coursera можно получить бесплатно. Тут описано как https://medium.com/@snipsnapsnoop/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%BD%D0%B0-coursera-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF-%D0%BA-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%BC%D1%83-%D0%BA%D1%83%D1%80%D1%81%D1%83-%D0%B8-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%83-%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE-af9afb7b55e
